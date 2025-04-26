@@ -188,7 +188,7 @@ root {
             position: fixed;
             bottom: 30px;
             right: 30px;
-            background-color: var(--primary-color);
+            background-color: black;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -201,7 +201,7 @@ root {
         }
         
         .print-btn:hover {
-            background-color: var(--accent-color);
+            background-color: white;
             transform: scale(1.05);
         }
         
